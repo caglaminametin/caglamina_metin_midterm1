@@ -1,0 +1,13 @@
+﻿CAGLA MINA METIN    20200701078
+
+
+Q1
+
+
+asciiname=  099 097 103 108 097 033 109 105 110 097=958
+asciisurname= 109 101 116 105 110=541
+asciitotal=1499
+timernumber= 1+1=2
+ARRNUMBER=65536-1
+duration=29.98=30
+ledpinnumber=3+12=15
